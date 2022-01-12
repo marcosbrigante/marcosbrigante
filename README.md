@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/phaeton"><img src="https://api.daily.dev/devcards/c636bce50c03416b8fcdd6ef590ae3c0.png?r=cpi" width="400" alt="Marcos Brigante's Dev Card"/></a>
+
 <!--
 **marcosbrigante/marcosbrigante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
